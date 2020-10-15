@@ -9,8 +9,8 @@ A simple snake game with some features. Written in C++ using Qt 5 framework.
 - Continuing. You do not have to restart the application to play again.
 
 # Gallery
-![Screenshot 1](screenshots/screenshot_1.png)
+![Screenshot 1](https://github.com/MarkLagodych/assets/blob/main/Snake_Qt5/screenshot_1.png?raw=true)
 
-![Screenshot 2](screenshots/screenshot_2.png)
+![Screenshot 2](https://github.com/MarkLagodych/assets/blob/main/Snake_Qt5/screenshot_2.png?raw=true)
 
-![Screenshot 3](screenshots/screenshot_3.png)
+![Screenshot 3](https://github.com/MarkLagodych/assets/blob/main/Snake_Qt5/screenshot_3.png?raw=true)
